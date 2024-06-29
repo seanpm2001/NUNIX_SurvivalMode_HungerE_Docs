@@ -1,0 +1,1 @@
+🧠️🍽️📖️ The official documentation source repository for NUNIX SurvivalMode: HungerE, a hunger control and stimulation system, as part of survival mode in the NUNIX neural operating system supplement. 
